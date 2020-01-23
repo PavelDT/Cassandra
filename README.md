@@ -1,4 +1,4 @@
-# Project Title
+# Learning Cassandra
 
 A project used for learning the basics of Cassandra - a distributed highly scalable database.
 
